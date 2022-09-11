@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sleepy_Couple_Part1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Down0000" x="100" y="0" width="916" height="578"/>
+	<SubTexture name="BF Left0000" x="1016" y="0" width="916" height="578"/>
+	<SubTexture name="BF Right0000" x="0" y="578" width="916" height="578"/>
+	<SubTexture name="BF Up0000" x="916" y="578" width="916" height="578"/>
+	<SubTexture name="BF and GF idle0000" x="1832" y="591" width="916" height="578"/>
+	<SubTexture name="BF and GF idle0001" x="1832" y="591" width="916" height="578"/>
+	<SubTexture name="BF and GF idle0002" x="1832" y="1169" width="916" height="578"/>
+	<SubTexture name="BF and GF idle0003" x="1832" y="1169" width="916" height="578"/>
+	<SubTexture name="BF and GF idle0004" x="0" y="1747" width="916" height="578"/>
+	<SubTexture name="BF and GF idle0005" x="0" y="1747" width="916" height="578"/>
+	<SubTexture name="GF Down0000" x="0" y="1156" width="916" height="585"/>
+	<SubTexture name="GF Left0000" x="916" y="1156" width="916" height="572"/>
+	<SubTexture name="GF Right0000" x="916" y="1728" width="916" height="577"/>
+	<SubTexture name="GF Up0000" x="1932" y="0" width="916" height="591"/>
+</TextureAtlas>
